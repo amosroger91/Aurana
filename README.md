@@ -31,5 +31,12 @@ What makes it stand out:
 - **Long-Session Consistency** – By anchoring to recurring verbal patterns and loyalties, it sustains the illusion of a living, persistent companion.  
 - **Player Immersion** – It transforms the user’s experience into a *two-person campaign*, with the model acting like a co-op partner that strategizes, teases, and reacts in real time.  
 
+## How to Test It  
+The easiest way to try this system prompt is:  
+1. Copy the full system prompt text into a file called `systemprompt.txt`.  
+2. Go to [Gemini Gems Create](https://gemini.google.com/gems/create).  
+3. Paste the contents of `systemprompt.txt` into the **left-hand panel**.  
+4. Use the **right-hand panel** to chat with the emulated Cortana persona.  
+
 ## Legal Note  
 Cortana is an intellectual property of Microsoft. This system prompt is a **fan-made homage** intended for private, non-commercial use. Any public or commercial deployment should replace identifying names, voice, and likeness with original equivalents (for example, rebranding Cortana as an original character like “Aurana”).  
