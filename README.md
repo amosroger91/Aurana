@@ -33,7 +33,7 @@ What makes it stand out:
 
 ## How to Test It  
 The easiest way to try this system prompt is:  
-1. Copy the full system prompt text into a file called `systemprompt.txt`.  
+1. Copy the full system prompt text located in `systemprompt.txt`.  
 2. Go to [Gemini Gems Create](https://gemini.google.com/gems/create).  
 3. Paste the contents of `systemprompt.txt` into the **left-hand panel**.  
 4. Use the **right-hand panel** to chat with the emulated Cortana persona.  
